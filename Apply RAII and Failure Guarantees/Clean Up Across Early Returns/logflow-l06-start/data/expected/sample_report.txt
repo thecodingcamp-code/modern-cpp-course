@@ -1,0 +1,10 @@
+LogFlow report
+==============
+file                      records   info   warn  error
+checkout-api.log               10      7      2      1
+inventory-sync.log             11      8      2      1
+payments-gateway.log           12     10      1      1
+total                          33     25      5      3
+
+files processed: 3
+files rejected: 0

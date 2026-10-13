@@ -1,0 +1,9 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles\early_exit_tests.dir\tests\early_exit_tests.cpp.obj: dyndep
+
+build CMakeFiles\early_exit_tests.dir\src\legacy_reader.cpp.obj: dyndep
+
+build CMakeFiles\early_exit_tests.dir\src\file_tracker.cpp.obj: dyndep
+
+build CMakeFiles\early_exit_tests.dir\src\log_parser.cpp.obj: dyndep
+

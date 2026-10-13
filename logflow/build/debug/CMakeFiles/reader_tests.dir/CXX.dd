@@ -1,0 +1,7 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles\reader_tests.dir\tests\reader_tests.cpp.obj: dyndep
+
+build CMakeFiles\reader_tests.dir\src\batch_reader.cpp.obj: dyndep
+
+build CMakeFiles\reader_tests.dir\src\log_parser.cpp.obj: dyndep
+

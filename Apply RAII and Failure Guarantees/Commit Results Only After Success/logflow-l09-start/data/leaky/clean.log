@@ -1,0 +1,6 @@
+2026-03-14T09:02:11Z INFO ledger-service batch 771 posted with 120 entries
+2026-03-14T09:02:12Z INFO ledger-service batch 772 posted with 98 entries
+2026-03-14T09:02:40Z WARN ledger-service reconciliation lag at 45 seconds
+2026-03-14T09:03:05Z INFO ledger-service batch 773 posted with 143 entries
+2026-03-14T09:03:19Z ERROR ledger-service batch 774 rejected: duplicate sequence 9912
+2026-03-14T09:03:44Z INFO ledger-service batch 775 posted with 87 entries

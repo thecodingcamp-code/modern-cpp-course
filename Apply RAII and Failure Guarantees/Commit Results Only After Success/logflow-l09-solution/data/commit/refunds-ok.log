@@ -1,0 +1,5 @@
+2026-03-14T12:20:01Z INFO refund-service refund 771 issued for order 2101
+2026-03-14T12:20:03Z INFO refund-service refund 772 issued for order 2107
+2026-03-14T12:20:06Z WARN refund-service refund 773 exceeds daily limit
+2026-03-14T12:20:08Z INFO refund-service refund 774 issued for order 2112
+2026-03-14T12:20:12Z ERROR refund-service refund 775 gateway unavailable

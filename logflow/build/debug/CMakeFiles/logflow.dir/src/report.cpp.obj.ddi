@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CMakeFiles\\logflow.dir\\src\\report.cpp.obj",
+            "outputs": [
+                "C:\\Projects\\modern-cpp-course\\logflow\\build\\debug\\vc140.pdb",
+                "CMakeFiles\\logflow.dir\\src\\report.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CMakeFiles\\early_exit_tests.dir\\tests\\early_exit_tests.cpp.obj",
+            "outputs": [
+                "C:\\Projects\\modern-cpp-course\\logflow\\build\\debug\\vc140.pdb",
+                "CMakeFiles\\early_exit_tests.dir\\tests\\early_exit_tests.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}

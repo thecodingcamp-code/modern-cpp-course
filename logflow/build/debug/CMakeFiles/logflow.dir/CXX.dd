@@ -1,0 +1,9 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles\logflow.dir\src\main.cpp.obj: dyndep
+
+build CMakeFiles\logflow.dir\src\log_parser.cpp.obj: dyndep
+
+build CMakeFiles\logflow.dir\src\analyzer.cpp.obj: dyndep
+
+build CMakeFiles\logflow.dir\src\report.cpp.obj: dyndep
+

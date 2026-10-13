@@ -1,0 +1,7 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles\commit_tests.dir\tests\commit_tests.cpp.obj: dyndep
+
+build CMakeFiles\commit_tests.dir\src\file_ingest.cpp.obj: dyndep
+
+build CMakeFiles\commit_tests.dir\src\log_parser.cpp.obj: dyndep
+

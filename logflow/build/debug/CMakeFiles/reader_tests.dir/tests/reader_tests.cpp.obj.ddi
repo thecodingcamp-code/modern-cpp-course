@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CMakeFiles\\reader_tests.dir\\tests\\reader_tests.cpp.obj",
+            "outputs": [
+                "C:\\Projects\\modern-cpp-course\\logflow\\build\\debug\\vc140.pdb",
+                "CMakeFiles\\reader_tests.dir\\tests\\reader_tests.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}

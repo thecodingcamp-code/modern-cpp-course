@@ -1,0 +1,6 @@
+2026-03-14T12:00:01Z INFO order-service order 2201 created for customer 6180
+2026-03-14T12:00:02Z INFO order-service order 2202 created for customer 7419
+2026-03-14T12:00:04Z WARN order-service order 2202 address needs review
+2026-03-14T12:00:06Z INFO order-service order 2203 created for customer 5527
+2026-03-14T12:00:09Z ERROR order-service order 2204 failed stock reservation
+2026-03-14T12:00:11Z INFO order-service order 2205 created for customer 8803

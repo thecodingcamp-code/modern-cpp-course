@@ -1,0 +1,6 @@
+C:/Projects/modern-cpp-course/logflow/build/debug/CMakeFiles/logflow.dir
+C:/Projects/modern-cpp-course/logflow/build/debug/CMakeFiles/early_exit_tests.dir
+C:/Projects/modern-cpp-course/logflow/build/debug/CMakeFiles/reader_tests.dir
+C:/Projects/modern-cpp-course/logflow/build/debug/CMakeFiles/commit_tests.dir
+C:/Projects/modern-cpp-course/logflow/build/debug/CMakeFiles/edit_cache.dir
+C:/Projects/modern-cpp-course/logflow/build/debug/CMakeFiles/rebuild_cache.dir

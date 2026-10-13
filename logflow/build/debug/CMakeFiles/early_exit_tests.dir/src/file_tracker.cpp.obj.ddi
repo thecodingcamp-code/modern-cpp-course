@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CMakeFiles\\early_exit_tests.dir\\src\\file_tracker.cpp.obj",
+            "outputs": [
+                "C:\\Projects\\modern-cpp-course\\logflow\\build\\debug\\vc140.pdb",
+                "CMakeFiles\\early_exit_tests.dir\\src\\file_tracker.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}

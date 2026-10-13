@@ -1,0 +1,7 @@
+2026-03-14T12:10:01Z INFO order-service order 2301 created for customer 3342
+2026-03-14T12:10:02Z INFO order-service order 2302 created for customer 9915
+2026-03-14T12:10:03Z WARN order-service order 2302 coupon rejected
+2026-03-14T12:10:05Z ERROR order-service order 2303 payment timeout
+%%corrupt block start%%
+2026-03-14T12:10:08Z INFO order-service order 2304 created for customer 1207
+2026-03-14T12:10:09Z INFO order-service order 2305 created for customer 4488

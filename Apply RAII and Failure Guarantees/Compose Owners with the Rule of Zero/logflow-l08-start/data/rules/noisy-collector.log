@@ -1,0 +1,12 @@
+2026-03-14T11:00:01Z INFO checkout-api order 1061 placed by customer 3302
+corrupt entry: collector restarted
+2026-03-14T11:00:03Z WARN checkout-api coupon FALL15 expires in 3 days
+2026-03-14T11:00:04Z INFO checkout-api cart 9021 priced with 5 items
+2026-03-14T11:00:05Z
+2026-03-14T11:00:06Z ERROR checkout-api payment 4410 declined by issuer
+2026-03-14T11:00:07Z INFO
+partial write 0x7f3a
+2026-03-14T11:00:09Z INFO checkout-api order 1062 placed by customer 9930
+2026-03-14T11:00:10Z INFO checkout-api cart 9022 priced with 2 items
+???
+2026-03-14T11:00:12Z WARN checkout-api inventory low for sku 77120

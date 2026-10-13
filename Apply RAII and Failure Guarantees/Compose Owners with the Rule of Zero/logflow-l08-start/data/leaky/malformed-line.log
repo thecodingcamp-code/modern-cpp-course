@@ -1,0 +1,4 @@
+2026-03-14T09:10:01Z INFO notify-worker email 5521 queued for customer 4410
+2026-03-14T09:10:02Z WARN notify-worker retry 2 for email 5519
+2026-03-14T09:10:03Z ERROR
+2026-03-14T09:10:04Z INFO notify-worker email 5522 queued for customer 8801

@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "LogFlow",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "commit_tests::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-commit_tests-Debug-eb810d12305441b3e6ae.json",
+					"name" : "commit_tests",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "early_exit_tests::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-early_exit_tests-Debug-3f77b68938231580c0cf.json",
+					"name" : "early_exit_tests",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "logflow::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-logflow-Debug-f7db0e0c818c24901149.json",
+					"name" : "logflow",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "reader_tests::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-reader_tests-Debug-2cece8f3e18ac07acc16.json",
+					"name" : "reader_tests",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Projects/modern-cpp-course/logflow/build/debug",
+		"source" : "C:/Projects/modern-cpp-course/logflow"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}

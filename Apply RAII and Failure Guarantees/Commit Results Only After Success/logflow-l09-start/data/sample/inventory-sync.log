@@ -1,0 +1,11 @@
+2026-03-14T08:10:00Z INFO inventory-sync sync started for warehouse north
+2026-03-14T08:10:12Z INFO inventory-sync 1840 stock rows downloaded
+2026-03-14T08:10:31Z WARN inventory-sync 12 SKUs missing barcode data
+2026-03-14T08:10:44Z INFO inventory-sync 1828 rows written to catalog
+2026-03-14T08:11:05Z INFO inventory-sync sync finished for warehouse north
+2026-03-14T08:11:06Z INFO inventory-sync sync started for warehouse south
+2026-03-14T08:11:30Z ERROR inventory-sync connection reset while reading warehouse south
+2026-03-14T08:11:35Z WARN inventory-sync retrying warehouse south in 5 seconds
+2026-03-14T08:11:41Z INFO inventory-sync 960 stock rows downloaded
+2026-03-14T08:11:58Z INFO inventory-sync sync finished for warehouse south
+2026-03-14T08:12:00Z INFO inventory-sync next sync scheduled in 30 minutes
